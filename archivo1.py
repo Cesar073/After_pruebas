@@ -1,1 +1,1 @@
-print("Este codigo ahora lee doc")
+print("Este codigo ahora lee BIEN doc")
